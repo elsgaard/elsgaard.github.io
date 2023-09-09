@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Parting the Clouds, Seeking the Way with Elsgaard'
+title = 'Thomas Elsgaard'
 theme = 'm10c'
 
 [params]
