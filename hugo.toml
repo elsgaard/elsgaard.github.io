@@ -5,7 +5,7 @@ theme = 'm10c'
 
 [params]
   author = "Thomas Elsgaard"
-  description = "A blog about Go, Kubernetes and pizza"
+  description = "Parting the Clouds, Seeking the Way. A blog about Go and Platform Engineering."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
