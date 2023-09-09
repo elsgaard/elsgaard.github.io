@@ -1,11 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Elsgaard'
+title = 'Parting the Clouds, Seeking the Way with Elsgaard'
 theme = 'm10c'
 
 [params]
   author = "Thomas Elsgaard"
-  description = "Parting the Clouds, Seeking the Way. A blog about Go and Platform Engineering."
+  description = "A blog about Go and Site Reliability Engineering."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
