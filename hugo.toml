@@ -15,3 +15,7 @@ theme = 'm10c'
     icon = "twitter"
     name = "Twitter"
     url = "https://twitter.com/telsgaard"
+  [[params.social]]
+    icon = "linkedin"
+    name = "linkedin"
+    url = "https://github.com/elsgaard"
