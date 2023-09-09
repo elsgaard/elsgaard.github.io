@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Elsgaard'
+theme = 'm10c'
+
+[params]
+  author = "Thomas Elsgaard"
+  description = "A blog about Go, Kubernetes and pizza"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/elsgaard"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/telsgaard"
