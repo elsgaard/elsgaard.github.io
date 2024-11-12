@@ -5,8 +5,7 @@ theme = 'm10c'
 
 [params]
   author = "TIMEZONE4"
-  description = "Jeg vil skabe noget fedt, og flytte status quo for hvordan moderne IT-systemer skal være. Jeg vil gøre op med standarderne i dag, perpetueret af nissefabrikkerne, der mest af alt agerer historiske artefakter fra den industrielle revolution. Hvis du er på udkig efter en standard løsning, er det bedst for alle parter, hvis det ikke er mig, der laver den.
-               For jeg vil lave det, der ikke allerede findes - det er det, jeg er bedst til, og det, jeg synes er sjovt."
+  description = "Jeg vil skabe noget fedt, og flytte status quo for hvordan moderne IT-systemer skal være. Hvis du er på udkig efter en standard løsning, er det bedst for alle parter, hvis det ikke er mig, der laver den. For jeg vil lave det, der ikke allerede findes - det er det, jeg er bedst til, og det, jeg synes er sjovt."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
