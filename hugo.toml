@@ -1,10 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Thomas Elsgaard'
+title = 'TIMEZONE4'
 theme = 'm10c'
 
 [params]
-  author = "TIMEZONE4"
+  author = "Thomas Elsgaard"
   description = "Hvis du er på udkig efter en standard løsning, er det bedst for alle parter, hvis det ikke er mig, der laver den. For jeg vil lave det, der ikke allerede findes - det er det, jeg er bedst til, og det, jeg synes er sjovt."
   menu_item_separator = " - "
   [[params.social]]
