@@ -4,7 +4,7 @@ title = 'Thomas Elsgaard'
 theme = 'm10c'
 
 [params]
-  author = "Thomas Elsgaard"
+  author = "TIMEZONE4"
   description = "A blog about Go and Site Reliability Engineering."
   menu_item_separator = " - "
   [[params.social]]
