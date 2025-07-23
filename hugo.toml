@@ -5,7 +5,7 @@ theme = 'm10c'
 
 [params]
   author = "Thomas Elsgaard"
-  description = "Hvis du er på udkig efter en standard løsning, er det bedst for alle parter, hvis det ikke er mig, der laver den. For jeg vil lave det, der ikke allerede findes - det er det, jeg er bedst til, og det, jeg synes er sjovt. - Thomas"
+  description = "Accept that other people and groups want to choose their own path, just as you do, and don’t worry too much if you can’t get them to see things your way."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
